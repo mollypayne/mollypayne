@@ -1,21 +1,24 @@
 ## Hi, I'm Molly 👋
+I'm a BEng Electronic Engineering student building practical solutions across software, embedded systems and data!
 
-## Interests
+## Interested in
 
-- Software Engineering
-- C++
-- Python
-- Embedded Systems
-- Financial Technology
-- Low-Latency Computing
+Building practical technical projects, data-driven problem solving, embedded systems, SQL/Python, cloud technology, process intelligence and the customer-facing side of engineering. 
 
-## Currently Working On...
+## Tech-Stack
 
-- Latency Measurement Tool
+C | C++ | Python | SQL | Git/GitHub | Embedded Systems
 
-## Currently Learning...
+## Currently Working On
 
-- Modern C++
-- Linux
-- Algorithms
-- LeetCode
+- Latency Measurement Tool (C++)
+- My Module Tracker (SQL)
+- 'Aurora' Accessible Sleep Pod (Embedded Systems)
+
+## Currently Learning
+
+Process Intelligence | Cloud Technologies | Data Analysis
+
+## Links...
+
+[LinkedIn](https://www.linkedin.com/in/molly-j-payne)
