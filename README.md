@@ -12,7 +12,7 @@ C | C++ | Python | SQL | Git/GitHub | Embedded Systems
 ## Currently Working On
 
 - Latency Measurement Tool (C++)
-- My Module Tracker (SQL)
+- 2026-27 University Database Tracker (SQL)
 - 'Aurora' Accessible Sleep Pod (Embedded Systems)
 
 ## Currently Learning
